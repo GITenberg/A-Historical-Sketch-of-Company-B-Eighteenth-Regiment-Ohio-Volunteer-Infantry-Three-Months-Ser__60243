@@ -1,0 +1,35 @@
+_repo: A-Historical-Sketch-of-Company-B-Eighteenth-Regiment-Ohio-Volunteer-Infantry-Three-Months-Ser__60243
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Booth, John T. (John Thomas)
+    alias: Booth, John Thomas
+    birthdate: &id001 1840
+    deathdate: 1922
+    gutenberg_agent_id: '50838'
+    url: http://www.gutenberg.org/2009/agents/50838
+creator:
+  author:
+    agent_name: Palmer, Jewett
+    birthdate: *id001
+    gutenberg_agent_id: '50862'
+    url: http://www.gutenberg.org/2009/agents/50862
+description: ''
+gutenberg_issued: '2019-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60243'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ohio -- History -- Civil War, 1861-1865'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcc 'E456'
+- !lcsh 'United States. Army. Ohio Infantry Regiment, 18th (1861-1864). Company B'
+- GITenberg
+title: 'A Historical Sketch of Company "B," Eighteenth Regiment Ohio Volunteer Infantry
+
+  Three Months Service'
+url: http://www.gutenberg.org/ebooks/60243
